@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qcq3YL40IPlA9yYm/fYtThIZ6ttMGPULpH3TrWQG4/HMFF+sDen9V+OqdkX/2ZLK6RYUVT7WAO2j4RGIIOPOig==",
+  "success": true,
+  "projectFilePath": "D:\\Repositories\\SpecialeRnD\\PoC_labview_to_dll\\DLL_test\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oahre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\oahre\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
