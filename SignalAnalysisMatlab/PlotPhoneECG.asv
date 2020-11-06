@@ -1,0 +1,5 @@
+%% READING THE FILES
+
+raw = csvread('Files/RawECGData.csv');
+filtered = csvread('Files/FilteredECGData.csv');
+
